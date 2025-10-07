@@ -42,4 +42,4 @@ We performed synthesis of the BabySoC design, validated functionality through GL
 
 ---
 
-Do you want me to do that?
+
